@@ -13,7 +13,6 @@ Mental
 Articulation
 Gonfler
 Ballerine
-Bouée
 Transport
 Riche
 Mexicain
@@ -24,7 +23,6 @@ Graves
 Citrouille
 Reptile
 Boisson
-Nouveauté
 Radio
 Taverne
 Toile
@@ -64,7 +62,6 @@ Grippe
 Zombi
 Coma
 Baudet
-Évier
 Longue
 Punie
 Poignard
@@ -73,8 +70,6 @@ Coutellerie
 Loin
 Meurtrier
 Personnes
-Salé
-Jeux olympiques
 Autruche
 Sablier
 Hanche
@@ -95,7 +90,6 @@ Jumelles
 Crayon
 Almanach
 Paragraphe
-Armée
 Tango
 Internet
 Rubrique
@@ -110,7 +104,6 @@ Jaune
 Foyer
 Blessure
 Afrique
-Deuxième
 Test tube
 Poser
 Lasagne
